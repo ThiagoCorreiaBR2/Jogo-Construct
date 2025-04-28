@@ -25,5 +25,5 @@ Database
    https://www.construct.net/en/free-online-games/kilomans-speedrun-75996/play
 
 ### Erros conhecidos
- Disparo não acontece ao atirar pulando e indo para a esquerda
+ Disparo não acontece ao atirar pulando e indo para a esquerda /n
  Ao clicar no botão de enviar o tempo, o jogo reinicia, porém o cronometro não aparece, apesar de estar contanto o tempo normalmente para o fim da pontuação
