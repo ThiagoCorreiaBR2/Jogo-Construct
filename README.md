@@ -5,7 +5,7 @@ Este projeto é um jogo feito em Construct 3. O jogo é um plataformer básico f
 
 ## Detalhas
 O jogo funciona com um timer ascendente, onde ao abater inimigos é debitado 3 segundos, e enconstar em um inimigo resulta em um aumento de 5 segundos. Espinhos te reiniciam para o inicio do level.
-O arquivo do jogo se encontra neste github
+O arquivo do jogo e seus sprites se encontra neste github
 
 ## Tecnologias
 O jogo e suas mecanicas são feitas interamente na engine Construct 3. O sistema de database utilizado para salvar os tempos dos jogadores foi o Firebase do Google, um banco de dados não relacional
